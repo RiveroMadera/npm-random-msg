@@ -1,5 +1,8 @@
 const Messages = [
   "Que la fuerza te acompañe!",
+  "Hakuna Matata",
+  "C'est la Vie",
+  "I'm not a robot",
   "This is the way!",
   "Que el producto resultante de la masa por la aceleracion te acompañe",
   "Hello World",
