@@ -1,7 +1,7 @@
 {
-  "name": "random-messages",
+  "name": "random-msg",
   "version": "1.0.0",
-  "description": "random de mensajes",
+  "description": "random messages",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "node",
     "npm"
   ],
-  "author": "jesus rivero",
+  "author": "riveromadera",
   "license": "MIT",
   "bin": {
     "random-msg": "./bin/global.js" 
