@@ -6,18 +6,18 @@ Whenever I start a new project, I don't know what to write for the first commit.
 ## Install
 
 ```npm
-npm install -g random-msg
+npm install -g random-mssges
 ```
 
 # Usage
 
 ```bash
-random-msg
+random-mssges
 ```
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/RiveroMadera/random-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-mssges](https://github.com/RiveroMadera/random-mssges)
 
 # License
 
